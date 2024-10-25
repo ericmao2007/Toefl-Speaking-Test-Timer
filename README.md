@@ -1,3 +1,3 @@
 # Toefl Test Timer
 
-A simple timer for practicing toefl:)
+A simple timer for practicing toefl in JAVA:)
